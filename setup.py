@@ -7,7 +7,7 @@ long_description = 'Python script to quickly look up questions on StackOverflow 
   
 setup( 
         name ='SearchOverflow', 
-        version ='1.0.0', 
+        version ='1.0.1', 
         author ='Airam Hernández Rocha', 
         author_email ='airamhr7@gmail.com', 
         url ='https://aiherroc.upv.edu.es', 
