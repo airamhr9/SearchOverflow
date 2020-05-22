@@ -25,7 +25,7 @@ On the command line type:
 
   1. `pip install SearchOverflow`
 
-### From the repository 
+### From this repository 
 
   1. `git clone https://github.com/airamhr9/SearchOverflow.git`
 
