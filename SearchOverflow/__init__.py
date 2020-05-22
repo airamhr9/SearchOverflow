@@ -131,9 +131,8 @@ def main():
         ]
 
         repeat_list = prompt(back_confirmation)
-        print("REPEAT = " + str(repeat_list))
 
         if(repeat_list['list_return'] == False):
-            break
+            sys.exit()
 
 main()
