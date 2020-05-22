@@ -35,8 +35,6 @@ On the command line type:
 
 
 <br>
-<br>
-<br>
 
 
 Copyright 2020 Airam Hernández Rocha
