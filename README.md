@@ -1,4 +1,5 @@
 #SearchOverflow
+
 ##Command line script to consult StackOverflow
 
 With SearchOverflow you can quickly look up questions on StackOverflow from any terminal, allowing for quick searches without exiting your IDE.
