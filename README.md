@@ -1,10 +1,10 @@
-#SearchOverflow
+# SearchOverflow
 
-##Command line script to consult StackOverflow
+## Command line script to consult StackOverflow
 
 With SearchOverflow you can quickly look up questions on StackOverflow from any terminal, allowing for quick searches without exiting your IDE.
 
-##Usage
+## Usage
 * Without any input
 
 ` sflow ` 
@@ -17,24 +17,21 @@ With SearchOverflow you can quickly look up questions on StackOverflow from any 
 
 After this you'll be prompted with 9 possible questions sorted by relevance. After choosing one, it will print both the question's text and its accepted answer, giving you the option to either end the program there or choose another entrance on the list.
 
-##Installation
+## Installation
 
 On the command line type:
 
-* ###From Pypi
+### From Pypi
 
   1. `pip install SearchOverflow`
 
-* ###From the repository 
+### From the repository 
 
-  1. `git clone add url`
+  1. `git clone https://github.com/airamhr9/SearchOverflow.git`
 
   2. `cd SearchOverflow`
 
   3. `sudo python setup.py install`
-
-
-
 
 
 <br>
